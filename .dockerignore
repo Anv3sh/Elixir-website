@@ -1,0 +1,7 @@
+.husky/
+node_modules/
+passphrase.txt
+logs/
+.git
+*.md
+.cache
